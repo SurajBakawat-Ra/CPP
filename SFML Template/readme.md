@@ -1,0 +1,1 @@
+SFML Template for Visual Studio (created in VS2022) with the required dependencies, SFML version 2.6.1
